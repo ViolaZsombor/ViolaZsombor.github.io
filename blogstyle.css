@@ -1,0 +1,33 @@
+p{
+    border: solid black 2px
+}
+
+h1{
+    background-color: grey;
+    padding: 0% 10%;
+    margin: 0%
+}
+
+div {
+    padding: 0px 10%;
+}
+
+input{
+    margin: 0%;
+    padding: 0%
+}
+
+ #title{
+     margin: 0%;
+     padding: 0%
+ }
+
+ #nagybetu{
+     font-size: 30px;
+     
+ }
+
+#search{
+   width: 15em;  height: 2em;
+  
+}
